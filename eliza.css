@@ -1,0 +1,96 @@
+ul{
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    color: aliceblue;
+}
+h3{
+    margin-left: 650px;
+    margin-top: 100px;
+}
+header{
+    background-image:url(img/1212.jpg.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color: aliceblue;
+}
+
+button{
+    color: orangered;
+    margin-bottom: 200px;
+}
+h1{
+    margin-right: 400px;
+}
+h2{
+    margin-left: 600px;
+}
+.menu img{
+    height: 250px;
+    width: 250px;
+    justify-content: space-around;
+}
+img{
+    justify-content: space-around;
+}
+/* .hen img{
+    height:120px;
+    width: 120px;
+} */
+ .menu{
+    display: flex;
+    justify-content: space-evenly;
+ }
+ .menux{
+    display: flex;
+    justify-content: space-evenly;
+ }
+ .menux img{
+    width: 250px;
+    height: 250px;
+ }
+ .locations img{
+    height: 25px;
+    width: 25px;
+ }
+ .header{
+    display: flex;
+ }
+  
+    
+  
+
+ 
+
+ 
+    
+
+    
+
+
+
+
+
+
+ 
+    
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
